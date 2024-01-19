@@ -18,8 +18,12 @@ I'm a passionate and budding programmer. Currently studying Data Enginnering at 
 
 ## 🎉 Fun Facts
 
-- Hobbies: Coding, DJ, .
+- Hobbies: Family, Coding, DNB DJ, F1 Fanatic
 - Favorite Quote: “Intelligence is the ability to avoid doing work, yet getting the work done.”
 ― Linus Torvalds
 
 Thanks for stopping by! 😊
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhwood/count.svg" />
+</p>
