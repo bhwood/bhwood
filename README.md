@@ -10,7 +10,7 @@ I'm a passionate and budding programmer. Currently studying Data Enginnering at 
 
 ## 🌱 Currently Learning
 
-- Exploring data engineering at Nortcoders Bootcamp
+- Exploring data engineering at Northcoders Bootcamp
 
 ## 📊 GitHub Stats
 
