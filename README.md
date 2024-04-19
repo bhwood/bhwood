@@ -1,6 +1,6 @@
 # Hi there, I'm Billy Hopkinson-Wood 👋
 
-I'm a passionate and budding programmer. Currently studying Data Enginnering at Northcoders starting on 4th March 2024.
+I'm a passionate and budding programmer. Currently studying Data Engineering at Northcoders starting on 4th March 2024.
 
 ## 🔧 Technologies & Tools
 
