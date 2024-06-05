@@ -1,7 +1,6 @@
 # Hi there, I'm Billy Hopkinson-Wood 👋
 
-I'm a passionate and budding programmer. Currently studying Data Engineering at Northcoders starting on 4th March 2024.
-
+I recently completed a data engineering bootcamp at Northcoders, where I undertook a comprehensive final project. I built an ETL pipeline using AWS Lambda functions, SQL, S3 storage, data lakes, and data warehouses. The project was orchestrated using AWS Step Functions, providing me with hands-on experience in cloud-based data engineering. This endeavor showcased my ability to develop scalable and efficient data solutions. 
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
