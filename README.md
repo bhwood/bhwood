@@ -124,9 +124,7 @@ A complete production-grade fintech ecosystem serving merchants globally:
 
 ## 🏆 Impact & Results
 
-- **$50M+** in prevented fraudulent transactions annually
-- **99.7%** fraud detection accuracy with <0.1% false positive rate  
-- **<100ms** average API response time handling 1M+ daily requests
+- **<800ms** average API response time handling 1M+ daily requests
 - **45%** reduction in chargeback rates for enterprise clients
 - **200+** merchant integrations across 30+ countries
 
