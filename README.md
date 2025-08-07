@@ -114,11 +114,6 @@ A complete production-grade fintech ecosystem serving merchants globally:
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=oauth&logoColor=white)
 
-### Payment & Fintech
-![Payment APIs](https://img.shields.io/badge/Payment_APIs-00D4AA?style=flat&logo=stripe&logoColor=white)
-![Fraud Prevention](https://img.shields.io/badge/Fraud_Prevention-FF6B35?style=flat&logo=security&logoColor=white)
-![KYC](https://img.shields.io/badge/KYC-1E88E5?style=flat&logo=shield&logoColor=white)
-
 ## 🎯 Current Focus
 
 - **Transaction Enrichment**: Building digital receipt systems to reduce friendly fraud chargebacks by 40%
