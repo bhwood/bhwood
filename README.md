@@ -201,8 +201,3 @@ Passionate about fraud prevention, payment systems, financial technology, or jus
 ---
 
 *"The best fraud prevention happens before the customer even knows there was a threat."*
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bhwood/count.svg" />
-</p>
