@@ -19,7 +19,7 @@ A complete production-grade fintech ecosystem serving merchants globally:
 - Mobile-optimized interface with collapsible navigation
 
 **⚡ High-Performance Backend APIs (Python + FastAPI)**  
-- RESTful APIs handling 1M+ daily requests with <100ms response times
+- RESTful APIs handling 1M+ daily requests with <800ms response times
 - Global alert aggregation from major card networks (Mastercard, Visa, Amex, Discover)
 - Real-time fraud detection and dispute prevention systems
 - Multi-tenant architecture with role-based access control
@@ -30,7 +30,7 @@ A complete production-grade fintech ecosystem serving merchants globally:
 - Advanced risk-scoring algorithms processing 100k+ API calls daily  
 - Multi-provider integration with intelligent caching
 - Dynamic risk scoring with 50+ fraud indicators and ML models
-- Sub-100ms response times with automatic failover and rate limiting
+- Sub-800ms response times with automatic failover and rate limiting
 - Sophisticated reason code weighting and risk categorization
 
 **🔐 Enterprise Security & Authentication**
@@ -116,17 +116,13 @@ A complete production-grade fintech ecosystem serving merchants globally:
 
 ## 🎯 Current Focus
 
-- **Transaction Enrichment**: Building digital receipt systems to reduce friendly fraud chargebacks by 40%
 - **ML-Powered Fraud Detection**: Implementing advanced machine learning models for real-time risk scoring
-- **Global Network Expansion**: Scaling our platform to support 50+ card networks worldwide
 - **Enterprise Integration**: Developing white-label solutions for major financial institutions
-- **Regulatory Compliance**: Ensuring PCI DSS and international compliance standards
 
 ## 🏆 Impact & Results
 
 - **<800ms** average API response time handling 1M+ daily requests
 - **45%** reduction in chargeback rates for enterprise clients
-- **200+** merchant integrations across 30+ countries
 
 ## 💡 Technical Innovations
 
