@@ -179,10 +179,6 @@ Always interested in connecting with other fintech innovators, discussing cuttin
 
 **Industry Knowledge**: Deep understanding of payment networks, regulatory requirements, and emerging fraud patterns gained through hands-on experience building production systems.
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhwood&show_icons=true&hide_border=true&count_private=true&theme=default)
-
 ## 🎉 When I'm Not Building Systems
 
 - **Family**: Quality time with loved ones always comes first
