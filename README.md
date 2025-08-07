@@ -28,7 +28,7 @@ A complete production-grade fintech ecosystem serving merchants globally:
 
 **🛡️ Real-Time Fraud Scoring Engine (Go + AWS Lambda)**
 - Advanced risk-scoring algorithms processing 100k+ API calls daily  
-- Multi-provider integration (Trustfull, Scamalytics) with intelligent caching
+- Multi-provider integration with intelligent caching
 - Dynamic risk scoring with 50+ fraud indicators and ML models
 - Sub-100ms response times with automatic failover and rate limiting
 - Sophisticated reason code weighting and risk categorization
