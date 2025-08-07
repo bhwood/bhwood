@@ -2,7 +2,7 @@
 
 **Product Manager building payment dispute prevention tools | Fraud Prevention | Chargeback Management**
 
-I'm a Product Manager at ChargeForwards, where I've architected and built a comprehensive fraud prevention platform that helps merchants worldwide tackle fraud and resolve disputes before they become chargebacks. My systems connect merchants with banks globally through Mastercard, Visa, Amex and Discover networks, processing millions of transactions and preventing significant financial losses.
+I'm a Product Manager at ChargeForwards, where I've architected and built a comprehensive fraud prevention platform that helps merchants worldwide tackle fraud and resolve disputes before they become chargebacks. My systems connect merchants with banks globally through Mastercard, Visa, Amex and Discover networks, protecting millions of transactions and preventing significant financial losses.
 
 ## 🏗️ Full-Stack Systems I've Built
 
